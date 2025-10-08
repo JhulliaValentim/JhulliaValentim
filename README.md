@@ -1,9 +1,6 @@
-## Óla! Eu sou Jhullia Valentim
-
-**JhulliaValentim/JhulliaValentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oiii! Eu sou Jhullia Valentim
 
 - 🔭 Hoje estudo front-end e back-end
-- 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
