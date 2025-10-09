@@ -15,6 +15,8 @@
   <img align="center" alt="jhull-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhull-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jhull-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="rafa.gif" src="https://media.tenor.com/HpGmnFXLvW8AAAAM/little-anime-boy-cute-boy.gif"/>
+</div>
 </div>
 <br>
 <div> 
