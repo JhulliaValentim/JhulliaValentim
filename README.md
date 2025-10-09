@@ -1,4 +1,4 @@
-## Oiii! Eu sou Jhullia Valentim
+## Oiii! Eu sou a Jhullia Valentim
 
 - 🔭 Hoje estudo front-end e back-end
 
