@@ -6,7 +6,7 @@
 
 <h1 align="center">Eu sou Jhullia Valentim𓅂</h1>
 <h3>
-<p align="center"> 🔭 Estudante de Ciência da computação na Uninassau Graças em Recife-pe. Atualmente estou realizando projetos na área do Front-end, todavia tambem gosto de estudar Python e Slq. Estou sempre em busca de novas tecnologias e novos desafios que me façam aprender e a evoluir. "𝘈 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢 𝘮𝘰𝘷𝘦 𝘰 𝘮𝘶𝘯𝘥𝘰" - Steve Jobs </p>
+<p align="center"> 🔭 Estudante de Ciência da computação na Uninassau Graças em Recife-pe. Atualmente estou realizando projetos na área do Front-end, todavia tambem gosto de estudar Python e SQL. Estou sempre em busca de novas tecnologias e novos desafios que me façam aprender e a evoluir. "𝘈 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢 𝘮𝘰𝘷𝘦 𝘰 𝘮𝘶𝘯𝘥𝘰" - Steve Jobs </p>
 </h3>
 <br>
 <div align="center">
