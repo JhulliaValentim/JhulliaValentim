@@ -23,9 +23,9 @@
   <a href="https://www.w3schools.com/html/"><img align="center" alt="jhull-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/"><img align="center" alt="jhull-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://www.python.org/"><img align="center" alt="jhull-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.mongodb.com/try/download/community"><img align="center" alt="jhull-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"></a>
+  <a href="https://www.mongodb.com/try/download/community"><img align="center" alt="jhull-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"></a>
   <a href="https://nodejs.org/pt"><img align="center" alt="jhull-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"></a>
-  <a href="https://www.mysql.com/"><img align="center" alt="jhull-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"></a>
+  <a href="https://www.mysql.com/"><img align="center" alt="jhull-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></a>
 </div>
 </div>
 <br>
