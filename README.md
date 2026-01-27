@@ -1,12 +1,16 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB1EEA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Oii+Seja+Bem+Vindo(a)!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB1EEA&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Seja+Bem+Vindo(a)!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-<h1 align="center">Eu sou Jhullia Valentim𓅂</h1>
+<h1 align="center">Eu sou Jhullia Valentim</h1>
 <h3>
-<p align="center"> 🔭 Estudante de Ciência da computação na Uninassau Graças em Recife-pe. Atualmente estou realizando projetos na área do Front-end, todavia tambem gosto de estudar Python e SQL. Estou sempre em busca de novas tecnologias e novos desafios que me façam aprender e a evoluir. "𝘈 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢 𝘮𝘰𝘷𝘦 𝘰 𝘮𝘶𝘯𝘥𝘰" - Steve Jobs </p>
+<p align="center">
+Atualmente, desenvolvo projetos na área de desenvolvimento de software, envolvendo a construção de interfaces e modelagem de dados. Possuo experiência com a plataforma Low-code OutSystems, além de conhecimentos em Python e SQL, aplicados na criação de soluções funcionais e organizadas.
+Tenho interesse constante em aprendizado contínuo, novas tecnologias e desafios que contribuam para minha evolução profissional na área de tecnologia.
+
+“A tecnologia move o mundo.” — Steve Jobs</p>
 </h3>
 <br>
 <div align="center">
@@ -16,7 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhulliaValentim&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 <br>
-<img align="right" alt="rafa.gif" src="https://media.tenor.com/HpGmnFXLvW8AAAAM/little-anime-boy-cute-boy.gif"/>
 <div style="display: inline_block"><br>
   <a href="https://www.w3schools.com/js/"><img align="center" alt="jhull-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://react.dev/"><img align="center" alt="jhull-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
