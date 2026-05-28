@@ -11,7 +11,7 @@
 <h1 align="center">Eu sou Jhullia Valentim</h1>
 <div align="center">
   <h3>
-    Atualmente, desenvolvo projetos na área de desenvolvimento de software, envolvendo a construção de interfaces e modelagem de dados. Possuo experiência com a plataforma Low-code OutSystems, além de conhecimentos em Python e SQL.
+    Atualmente, desenvolvo projetos na área de desenvolvimento de software (FullStack), envolvendo a construção de interfaces e modelagem de dados.
   </h3>
   <p>“A tecnologia move o mundo.” — Steve Jobs</p>
 </div>
